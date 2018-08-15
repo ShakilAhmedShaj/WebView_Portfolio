@@ -8,7 +8,7 @@ import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
 
-
+//by SHAJ.T3CH
 public class MainActivity extends ActionBarActivity {
     private WebView myWebView;
     @Override
